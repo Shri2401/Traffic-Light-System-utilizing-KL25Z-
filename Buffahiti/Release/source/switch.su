@@ -1,0 +1,3 @@
+../source/switch.c:18:6:Switch_Initialization	0	static
+../source/switch.c:34:6:IRQHandler	0	static
+../source/switch.c:49:5:switch_press	0	static

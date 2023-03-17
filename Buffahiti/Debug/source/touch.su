@@ -1,0 +1,2 @@
+../source/touch.c:16:6:Touch_Initialization	8	static
+../source/touch.c:35:5:Touch_Scan	16	static

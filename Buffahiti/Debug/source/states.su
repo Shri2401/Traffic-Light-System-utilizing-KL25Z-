@@ -1,0 +1,3 @@
+../source/states.c:64:6:transition	16	static
+../source/states.c:84:6:setStates	24	static
+../source/states.c:94:6:MainLoop	32	static

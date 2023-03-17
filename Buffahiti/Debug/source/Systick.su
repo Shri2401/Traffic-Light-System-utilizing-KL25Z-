@@ -1,0 +1,6 @@
+C:\Users\itssh\Downloads\Buffahiti\Buffahiti\CMSIS/core_cm0plus.h:804:22:NVIC_SetPriority	24	static
+../source/Systick.c:20:6:SysTick_Initialization	8	static
+../source/Systick.c:34:6:SysTick_Handler	8	static
+../source/Systick.c:44:12:time_now	8	static
+../source/Systick.c:54:6:reset_timer	8	static
+../source/Systick.c:64:12:get_timer	8	static
